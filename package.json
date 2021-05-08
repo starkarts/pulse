@@ -15,7 +15,8 @@
     "gulp-clean-css": "^4.3.0",
     "gulp-cli": "^2.3.0",
     "gulp-rename": "^2.0.0",
-    "gulp-sass": "^4.1.0"
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
   },
   "browsersList": [
     "last 1 version",
