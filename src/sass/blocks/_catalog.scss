@@ -132,10 +132,10 @@
       padding-left: 19px;
       margin-bottom: 0;
       list-style-type: none;
-    }
-    &_active {
-      transform: translateX(-100%);
-      margin-left: 0px;
+      &_active {
+        transform: translateX(-100%);
+        margin-left: 0px;
+      }
     }
     li {
       position: relative;
